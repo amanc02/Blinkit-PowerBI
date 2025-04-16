@@ -7,12 +7,14 @@ This project presents a comprehensive Power BI dashboard built using BlinkIT's g
 
 The project includes data exploration, transformation, and visualization to support data-driven decision-making for stakeholders in a retail/grocery business environment.
 
+
 ---
 
 ##  Files Included
 
 - `BlinkIT Grocery Data.xlsx`: Raw dataset containing transactional-level data on product sales.
 - `amanblinkit.pbix`: Power BI file that includes data model, transformations, and dashboard visualizations.
+- [Video Link](https://youtu.be/y_1zCqIPFIk) : Contains the video demonstration of the dashboard.
 
 ---
 
