@@ -6,7 +6,7 @@
 This project presents a comprehensive Power BI dashboard built using BlinkIT's grocery sales data. The goal was to create an insightful, interactive visual analytics solution to help understand product trends, category performance, sales distribution, and customer buying behavior.
 
 The project includes data exploration, transformation, and visualization to support data-driven decision-making for stakeholders in a retail/grocery business environment.
-
+![Image](https://github.com/user-attachments/assets/07879718-ff2b-4ecc-9ef4-43f038b5be70)
 
 ---
 
@@ -100,5 +100,9 @@ The project includes data exploration, transformation, and visualization to supp
 ##  Final Result
 
 An interactive, business-oriented dashboard offering a 360-degree view of sales and product analytics. Ideal for retail/grocery sector insights.
+
+##  Video Link
+
+[Demonstration](https://youtu.be/y_1zCqIPFIk) of how actively the dashboard works and tells a story.
 
 
